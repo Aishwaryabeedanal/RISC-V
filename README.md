@@ -19,8 +19,7 @@ The design was simulated and verified using AMD Vivado to validate functionality
 ## 🔹 Project Resources
 The following project materials will be added to this repository:
 
-- 📄 Detailed Project Report  
-- 📄 Research Paper  
+- 📄 Detailed Project Report   
 - 📊 Simulation Results (Waveforms)  
 - 🖼️ Architecture and Pipeline Diagrams  
 
